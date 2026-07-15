@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vidushi!
+# Hi there 👋, I'm Niyati Jain!
 
 💻 **Aspiring Data Analytics Developer | B.Tech in AI, ML & Dl |**
 🌱 **Currently learning:** Advanced Python, NumPy, Pandas, and SQL for Data Analytics

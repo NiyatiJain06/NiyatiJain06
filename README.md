@@ -14,7 +14,8 @@
 
 <p align="left">
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right: 10px;" /> <sub><b>Python</b></sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right: 10px;" /> 
+  <sub><b>Python</b></sub>
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" style="padding-right: 10px;" />
   <!-- HTML5 -->

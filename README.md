@@ -46,9 +46,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark" height="150" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark" height="160" />
 </p>
+
+<p align="left">
+  <!-- Dynamic Contribution Graph (Green Grid) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark" alt="GitHub Streak" />
+</p>
+
+### 🟩 Contribution Activity
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=dark" alt="GitHub Contribution Graph" width="100%" />
+</p>
+
+

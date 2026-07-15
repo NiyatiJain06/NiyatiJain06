@@ -50,7 +50,7 @@
 
 <p align="left">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NiyatiJain06&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark" height="160" />
 </p>

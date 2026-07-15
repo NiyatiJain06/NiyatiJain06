@@ -60,9 +60,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiyatiJain06&theme=dark" alt="GitHub Streak" />
 </p>
 
-### 🟩 Contribution Activity
+
+
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiyatiJain06&theme=dark" alt="GitHub Contribution Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NiyatiJain06&show_icons=true&theme=dark" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyatiJain06&layout=compact&theme=dark" height="160" />
+</p>
+
+### 🟩 My 365 Days Contribution Calendar
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiyatiJain06&theme=github-dark-neon" width="100%" />
 </p>
 
 

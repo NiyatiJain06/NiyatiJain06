@@ -44,7 +44,7 @@
   </tr>
 </table>
 
----
+--
 
 ### 📊 GitHub Stats & Contributions
 

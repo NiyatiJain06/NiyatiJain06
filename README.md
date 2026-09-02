@@ -69,8 +69,6 @@
 
 
 ### 🟩 My 365 Days Contribution Calendar
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiyatiJain06&theme=github-dark-neon" width="100%" />
-</p>
+
 
 
